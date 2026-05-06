@@ -1,0 +1,315 @@
+{
+  "tickers": {
+    "NVDA": {
+      "ticker": "NVDA",
+      "sector": "AI value chain",
+      "notes": "Core AI/GPU position",
+      "drawdown_from_6mo_high_pct": -5.5,
+      "recent_6mo_high": 216.83,
+      "short_interest_pct": 1.0,
+      "beta": 2.24,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "MU": {
+      "ticker": "MU",
+      "sector": "AI value chain",
+      "notes": "Memory, HBM for AI",
+      "drawdown_from_6mo_high_pct": -1.4,
+      "recent_6mo_high": 667.67,
+      "short_interest_pct": 3.0,
+      "beta": 1.92,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "SOXL": {
+      "ticker": "SOXL",
+      "sector": "AI value chain",
+      "notes": "3x leveraged semis ETF \u2014 high volatility, short-hold instrument",
+      "drawdown_from_6mo_high_pct": -1.1,
+      "recent_6mo_high": 162.21,
+      "short_interest_pct": null,
+      "beta": null,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": "SOXL is a 3x leveraged ETF tracking the SOX index. Daily rebalancing causes volatility decay \u2014 unsuitable as a long-term hold in choppy/ranging markets. Best used for short-term directional bets when semis sector has clear momentum.",
+      "geopolitical_flag": null
+    },
+    "MRVL": {
+      "ticker": "MRVL",
+      "sector": "AI value chain",
+      "notes": "Custom silicon, networking",
+      "drawdown_from_6mo_high_pct": -4.0,
+      "recent_6mo_high": 175.79,
+      "short_interest_pct": 4.0,
+      "beta": 2.25,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "APH": {
+      "ticker": "APH",
+      "sector": "AI value chain",
+      "notes": "Connectors/interconnects for AI infra",
+      "drawdown_from_6mo_high_pct": -17.0,
+      "recent_6mo_high": 166.71,
+      "short_interest_pct": 1.0,
+      "beta": 1.3,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "VST": {
+      "ticker": "VST",
+      "sector": "AI value chain",
+      "notes": "Power/energy for data centres",
+      "drawdown_from_6mo_high_pct": -19.8,
+      "recent_6mo_high": 196.26,
+      "short_interest_pct": 4.0,
+      "beta": 1.45,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "MO": {
+      "ticker": "MO",
+      "sector": "Defensive",
+      "notes": "Tobacco, dividend yield",
+      "drawdown_from_6mo_high_pct": -5.1,
+      "recent_6mo_high": 74.56,
+      "short_interest_pct": 3.0,
+      "beta": 0.52,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "WMT": {
+      "ticker": "WMT",
+      "sector": "Defensive",
+      "notes": "Retail, consumer staples",
+      "drawdown_from_6mo_high_pct": -3.3,
+      "recent_6mo_high": 134.41,
+      "short_interest_pct": 2.0,
+      "beta": 0.65,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "PDD": {
+      "ticker": "PDD",
+      "sector": "Defensive",
+      "notes": "China e-commerce \u2014 geopolitical risk flag",
+      "drawdown_from_6mo_high_pct": -27.0,
+      "recent_6mo_high": 139.12,
+      "short_interest_pct": 3.0,
+      "beta": 0.03,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": "China-listed ADR \u2014 exposed to US-China regulatory risk, delisting risk, and yuan/macro factors."
+    },
+    "DAL": {
+      "ticker": "DAL",
+      "sector": "Defensive",
+      "notes": "Airlines \u2014 macro/fuel sensitive",
+      "drawdown_from_6mo_high_pct": -3.8,
+      "recent_6mo_high": 76.18,
+      "short_interest_pct": 4.0,
+      "beta": 1.25,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "SNDK": {
+      "ticker": "SNDK",
+      "sector": "AI value chain",
+      "notes": "Flash storage, WD spinoff",
+      "drawdown_from_6mo_high_pct": -3.3,
+      "recent_6mo_high": 1439.7,
+      "short_interest_pct": 10.0,
+      "beta": null,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "AMAT": {
+      "ticker": "AMAT",
+      "sector": "AI value chain",
+      "notes": "Semiconductor equipment",
+      "drawdown_from_6mo_high_pct": -1.5,
+      "recent_6mo_high": 432.81,
+      "short_interest_pct": 2.0,
+      "beta": 1.65,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "LITE": {
+      "ticker": "LITE",
+      "sector": "AI value chain",
+      "notes": "Optical components for AI networking",
+      "drawdown_from_6mo_high_pct": -10.2,
+      "recent_6mo_high": 1021.0,
+      "short_interest_pct": 14.0,
+      "beta": 1.53,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "COHR": {
+      "ticker": "COHR",
+      "sector": "AI value chain",
+      "notes": "Optical/laser components",
+      "drawdown_from_6mo_high_pct": -6.5,
+      "recent_6mo_high": 364.8,
+      "short_interest_pct": 6.0,
+      "beta": 2.05,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    },
+    "AAOI": {
+      "ticker": "AAOI",
+      "sector": "AI value chain",
+      "notes": "Optical transceivers, high beta",
+      "drawdown_from_6mo_high_pct": -9.2,
+      "recent_6mo_high": 191.87,
+      "short_interest_pct": 13.0,
+      "beta": 3.76,
+      "earnings_date": null,
+      "days_to_earnings": null,
+      "insider_flag": null,
+      "leveraged_etf_warning": null,
+      "geopolitical_flag": null
+    }
+  },
+  "macro": {
+    "^VIX": {
+      "description": "Market fear / volatility index",
+      "price": 17.29,
+      "ema20": 18.98,
+      "ma50": 22.11,
+      "vs_ema20_pct": -8.9,
+      "wow_pct": 2.4,
+      "mom_pct": -17.8,
+      "trend": "below_ema20",
+      "risk_level": "low"
+    },
+    "SPY": {
+      "description": "S&P 500 \u2014 broad market trend",
+      "price": 731.44,
+      "ema20": 706.67,
+      "ma50": 681.87,
+      "vs_ema20_pct": 3.5,
+      "wow_pct": 1.8,
+      "mom_pct": 8.2,
+      "trend": "above_ema20"
+    },
+    "SMH": {
+      "description": "VanEck Semiconductor ETF (25 stocks, NVDA-heavy ~25%) \u2014 semis sector health",
+      "price": 543.84,
+      "ema20": 483.05,
+      "ma50": 429.07,
+      "vs_ema20_pct": 12.6,
+      "wow_pct": 7.3,
+      "mom_pct": 28.6,
+      "trend": "above_ema20"
+    },
+    "SOXX": {
+      "description": "iShares Semiconductor ETF (30 stocks, capped 8% per name) \u2014 broader semis read; divergence from SMH signals NVDA-specific vs sector-wide moves",
+      "price": 500.55,
+      "ema20": 436.08,
+      "ma50": 377.17,
+      "vs_ema20_pct": 14.8,
+      "wow_pct": 8.5,
+      "mom_pct": 35.1,
+      "trend": "above_ema20"
+    },
+    "XLK": {
+      "description": "Tech sector ETF \u2014 broad tech trend",
+      "price": 168.56,
+      "ema20": 156.15,
+      "ma50": 144.63,
+      "vs_ema20_pct": 7.9,
+      "wow_pct": 5.7,
+      "mom_pct": 19.0,
+      "trend": "above_ema20"
+    },
+    "^TNX": {
+      "description": "US 10-year Treasury yield \u2014 rate environment",
+      "price": 4.35,
+      "ema20": 4.35,
+      "ma50": 4.27,
+      "vs_ema20_pct": 0.2,
+      "wow_pct": -0.8,
+      "mom_pct": 1.5,
+      "trend": "above_ema20"
+    },
+    "DX-Y.NYB": {
+      "description": "US Dollar index \u2014 affects multinationals (PDD, WMT)",
+      "price": 97.97,
+      "ema20": 98.54,
+      "ma50": 98.96,
+      "vs_ema20_pct": -0.6,
+      "wow_pct": -0.1,
+      "mom_pct": -1.2,
+      "trend": "below_ema20"
+    }
+  },
+  "portfolio": {
+    "total_positions": 15,
+    "sector_concentration": {
+      "AI value chain": 73.3,
+      "Defensive": 26.7
+    },
+    "correlation_cluster": {
+      "tickers": [
+        "NVDA",
+        "MU",
+        "SOXL",
+        "MRVL",
+        "AMAT",
+        "SNDK"
+      ],
+      "holdings_in_cluster": [
+        "NVDA",
+        "MU",
+        "SOXL",
+        "MRVL"
+      ],
+      "watchlist_in_cluster": [
+        "SNDK",
+        "AMAT"
+      ],
+      "warning": "4 holdings (NVDA, MU, SOXL, MRVL) are in the semis correlation cluster. In a broad semiconductor selloff, these tend to fall together regardless of individual fundamentals."
+    }
+  }
+}
