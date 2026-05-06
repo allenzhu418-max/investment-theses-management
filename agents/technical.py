@@ -25,7 +25,8 @@ from datetime import date, timedelta
 
 warnings.filterwarnings("ignore")
 
-CHART_WEEKS = 52
+CHART_WEEKS = 52  # kept for backward compat; actual chart uses daily candles
+CHART_DAYS = 365  # 1 year of daily candles
 
 
 # ── Indicator calculations ──────────────────────────────────────────────────
@@ -76,12 +77,12 @@ def compute_atr(high: pd.Series, low: pd.Series, close: pd.Series, period: int =
 # ── Chart generation ────────────────────────────────────────────────────────
 
 def draw_chart(ticker: str, df: pd.DataFrame, output_dir: str) -> str:
-    """Draw a weekly candlestick chart with indicators. Returns saved path."""
-    df = df.tail(CHART_WEEKS).copy()
+    """Draw a daily candlestick chart (1 year) with indicators. Returns saved path."""
+    df = df.tail(CHART_DAYS).copy()
     dates = df.index
 
     fig, (ax1, ax2, ax3) = plt.subplots(
-        3, 1, figsize=(14, 10),
+        3, 1, figsize=(16, 10),
         gridspec_kw={"height_ratios": [4, 1.2, 1.2]},
         sharex=True
     )
@@ -94,41 +95,41 @@ def draw_chart(ticker: str, df: pd.DataFrame, output_dir: str) -> str:
             spine.set_edgecolor("#333333")
         ax.grid(True, color="#1e1e1e", linewidth=0.5)
 
-    # ── Candlesticks ──
-    width = 4  # days (weekly candles)
-    for i, (idx, row) in enumerate(df.iterrows()):
+    # ── Candlesticks (daily — thinner bars) ──
+    width = 0.6  # days
+    for idx, row in df.iterrows():
         o, h, l, c = row["Open"], row["High"], row["Low"], row["Close"]
         color = "#26a69a" if c >= o else "#ef5350"
-        ax1.plot([idx, idx], [l, h], color=color, linewidth=0.8)
+        ax1.plot([idx, idx], [l, h], color=color, linewidth=0.6)
         rect = Rectangle(
             (mdates.date2num(idx) - width / 2, min(o, c)),
-            width, abs(c - o),
+            width, abs(c - o) if abs(c - o) > 0 else 0.01,
             linewidth=0, facecolor=color
         )
         ax1.add_patch(rect)
 
     ax1.set_xlim(
-        mdates.date2num(dates[0]) - 5,
-        mdates.date2num(dates[-1]) + 5
+        mdates.date2num(dates[0]) - 2,
+        mdates.date2num(dates[-1]) + 2
     )
 
     # ── MAs & Bollinger ──
-    ax1.plot(dates, df["EMA5"],   color="#f0e68c", linewidth=1.2, label="5 EMA")
-    ax1.plot(dates, df["EMA20"],  color="#42a5f5", linewidth=1.4, label="20 EMA")
-    ax1.plot(dates, df["MA200"],  color="#ff7043", linewidth=1.6, label="200 MA", linestyle="--")
-    ax1.plot(dates, df["BB_upper"], color="#888888", linewidth=0.8, linestyle=":")
-    ax1.plot(dates, df["BB_lower"], color="#888888", linewidth=0.8, linestyle=":")
+    ax1.plot(dates, df["EMA5"],   color="#f0e68c", linewidth=1.0, label="5 EMA")
+    ax1.plot(dates, df["EMA20"],  color="#42a5f5", linewidth=1.2, label="20 EMA")
+    ax1.plot(dates, df["MA200"],  color="#ff7043", linewidth=1.5, label="200 MA", linestyle="--")
+    ax1.plot(dates, df["BB_upper"], color="#888888", linewidth=0.7, linestyle=":")
+    ax1.plot(dates, df["BB_lower"], color="#888888", linewidth=0.7, linestyle=":")
     ax1.fill_between(dates, df["BB_upper"], df["BB_lower"], alpha=0.04, color="#888888")
 
-    ax1.set_title(f"{ticker} — Weekly Chart ({CHART_WEEKS}w)", color="#eeeeee", fontsize=11, pad=8)
+    ax1.set_title(f"{ticker} — Daily Chart (1 Year)", color="#eeeeee", fontsize=11, pad=8)
     ax1.legend(loc="upper left", fontsize=7, facecolor="#1a1a1a", labelcolor="#cccccc")
     ax1.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f"${x:.0f}"))
 
     # ── MACD ──
-    ax2.plot(dates, df["MACD"],   color="#42a5f5", linewidth=1.0, label="MACD")
-    ax2.plot(dates, df["Signal"], color="#ff7043", linewidth=1.0, label="Signal")
+    ax2.plot(dates, df["MACD"],   color="#42a5f5", linewidth=0.9, label="MACD")
+    ax2.plot(dates, df["Signal"], color="#ff7043", linewidth=0.9, label="Signal")
     colors_hist = ["#26a69a" if v >= 0 else "#ef5350" for v in df["MACD_hist"]]
-    ax2.bar(dates, df["MACD_hist"], color=colors_hist, width=4, alpha=0.7)
+    ax2.bar(dates, df["MACD_hist"], color=colors_hist, width=0.6, alpha=0.7)
     ax2.axhline(0, color="#555555", linewidth=0.5)
     ax2.set_ylabel("MACD", fontsize=8)
     ax2.legend(loc="upper left", fontsize=7, facecolor="#1a1a1a", labelcolor="#cccccc")
@@ -136,12 +137,12 @@ def draw_chart(ticker: str, df: pd.DataFrame, output_dir: str) -> str:
     # ── Volume ──
     vol_colors = ["#26a69a" if df["Close"].iloc[i] >= df["Open"].iloc[i] else "#ef5350"
                   for i in range(len(df))]
-    ax3.bar(dates, df["Volume"], color=vol_colors, width=4, alpha=0.8)
+    ax3.bar(dates, df["Volume"], color=vol_colors, width=0.6, alpha=0.8)
     ax3.set_ylabel("Volume", fontsize=8)
     ax3.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f"{x/1e6:.0f}M"))
 
     ax3.xaxis.set_major_formatter(mdates.DateFormatter("%b '%y"))
-    ax3.xaxis.set_major_locator(mdates.MonthLocator(interval=2))
+    ax3.xaxis.set_major_locator(mdates.MonthLocator(interval=1))
     plt.xticks(rotation=30, ha="right", color="#cccccc", fontsize=7)
 
     plt.tight_layout(h_pad=0.3)
@@ -154,12 +155,13 @@ def draw_chart(ticker: str, df: pd.DataFrame, output_dir: str) -> str:
 # ── Main fetch & compute ────────────────────────────────────────────────────
 
 def fetch_technical(ticker: str, output_dir: str) -> dict:
-    """Fetch weekly data, compute indicators, save chart. Returns summary dict."""
+    """Fetch daily data, compute indicators, save chart. Returns summary dict."""
     try:
         end = date.today()
-        start = end - timedelta(weeks=CHART_WEEKS + 50)  # extra for MA200 warmup
+        # Extra history for MA200 warmup (200 trading days ≈ 10 months extra)
+        start = end - timedelta(days=CHART_DAYS + 300)
 
-        df = yf.download(ticker, start=start, end=end, interval="1wk",
+        df = yf.download(ticker, start=start, end=end, interval="1d",
                          progress=False, auto_adjust=True)
         if df.empty or len(df) < 30:
             return {"ticker": ticker, "error": "Insufficient data"}
@@ -172,6 +174,7 @@ def fetch_technical(ticker: str, output_dir: str) -> dict:
 
         close = df["Close"]
 
+        # Daily periods: 5d EMA, 20d EMA, 200d MA, standard daily RSI/Bollinger
         df["EMA5"]    = compute_ema(close, 5)
         df["EMA20"]   = compute_ema(close, 20)
         df["MA200"]   = compute_sma(close, 200)
@@ -189,9 +192,9 @@ def fetch_technical(ticker: str, output_dir: str) -> dict:
                 return None
             return round((price / float(ma_val) - 1) * 100, 1)
 
-        # Volume trend: compare last 4 weeks avg vs prior 4 weeks avg
-        vol_recent = df["Volume"].iloc[-4:].mean()
-        vol_prior  = df["Volume"].iloc[-8:-4].mean()
+        # Volume trend: compare last 10 days avg vs prior 10 days avg
+        vol_recent = df["Volume"].iloc[-10:].mean()
+        vol_prior  = df["Volume"].iloc[-20:-10].mean()
         vol_trend  = "rising" if vol_recent > vol_prior * 1.1 else (
                      "falling" if vol_recent < vol_prior * 0.9 else "flat")
 
@@ -206,8 +209,8 @@ def fetch_technical(ticker: str, output_dir: str) -> dict:
         bb_width = float(last["BB_upper"]) - float(last["BB_lower"])
         bb_pct = round((price - float(last["BB_lower"])) / bb_width * 100, 1) if bb_width > 0 else None
 
-        # 52-week high/low
-        recent = df.tail(52)
+        # 52-week high/low (252 trading days ≈ 1 year)
+        recent = df.tail(252)
         w52_high = float(recent["High"].max())
         w52_low  = float(recent["Low"].min())
         pct_from_high = round((price / w52_high - 1) * 100, 1)
