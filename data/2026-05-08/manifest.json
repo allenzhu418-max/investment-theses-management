@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-08",
+  "tickers": [
+    "NVDA",
+    "MU",
+    "SOXL",
+    "MRVL",
+    "APH",
+    "VST",
+    "MO",
+    "WMT",
+    "PDD",
+    "DAL",
+    "SNDK",
+    "AMAT",
+    "LITE",
+    "COHR",
+    "AAOI"
+  ],
+  "agents_run": [
+    "fundamentals",
+    "technical",
+    "news",
+    "risk"
+  ],
+  "data_dir": "data/2026-05-08",
+  "errors": {}
+}

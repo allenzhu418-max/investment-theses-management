@@ -1,0 +1,608 @@
+{
+  "NVDA": {
+    "ticker": "NVDA",
+    "headlines": [
+      {
+        "title": "Why Arm Holdings Stock Was Sliding Today",
+        "source": "",
+        "url": "https://www.fool.com/investing/2026/05/07/why-arm-holdings-stock-was-sliding-today/?.tsrc=rss",
+        "published": "2026-05-07T16:24:23+00:00"
+      },
+      {
+        "title": "Where Will Oklo Stock Be in 3 Years?",
+        "source": "",
+        "url": "https://www.fool.com/investing/2026/05/07/where-will-stock-stock-be-in-3-years/?.tsrc=rss",
+        "published": "2026-05-07T16:20:00+00:00"
+      },
+      {
+        "title": "Prediction: BigBear.ai Could Jump Over 40% This Year",
+        "source": "",
+        "url": "https://247wallst.com/investing/2026/05/07/prediction-bigbear-ai-could-jump-over-40-this-year/?.tsrc=rss",
+        "published": "2026-05-07T16:17:01+00:00"
+      },
+      {
+        "title": "Nvidia's latest partnership could pay your entire electricity bill by turning your home into a mini data center",
+        "source": "",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidias-latest-partnership-could-pay-161500467.html?.tsrc=rss",
+        "published": "2026-05-07T16:15:00+00:00"
+      },
+      {
+        "title": "Get Paid 10% To Buy NVDA At A 30% Discount, Here's How",
+        "source": "",
+        "url": "https://www.trefis.com/articles/598677/get-paid-10-to-buy-nvda-at-a-30-discount-heres-how/2026-05-07?.tsrc=rss",
+        "published": "2026-05-07T16:09:07+00:00"
+      },
+      {
+        "title": "Get Paid 10% To Buy NVDA At A 30% Discount, Here’s How - Trefis",
+        "source": "Trefis",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEhFRGgxcXZvSEROdFVRUXZtSkNkbTZuZTJfZkhyN0Q1TWpMX25uWHJ3emdBa2swSjN3WFFnZjZMQXJHYWRONElKOWlaWnNuZ1FwYWdDOFE3R1ItN21BWi1ySFdmLVN1QVpyd0hzNnQ3TG83bk5HV0w0b1RwbkdOdHR0RktzRFA4Y3lSR21QTzczdThWcmxtMW1UQVNzTFR5RVlxSS1ITVZ2dzdiWjFDZw?oc=5",
+        "published": "2026-05-07T16:08:01+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "MU": {
+    "ticker": "MU",
+    "headlines": [
+      {
+        "title": "Sandisk vs Micron: Which Stock Has a Better Chance of Continuing Its Magical Run? - TIKR.com",
+        "source": "TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOEpuY2xIYjFtU2dUcl9XWnlrNHdPLU1EQTMzVUFld01fQVBoMVJZQTFYU2xra05NRGNaeEFBZUZBbVFtQmZCeE9Yb21DOEt6NEI4cUJXb3NBT1o0V1dqSDRCQTEtVWtLLVcxMVkzd1J3OWJGYWwtMHpSZjBsTHhRRklaWjdMeThDLTZEVUtxeEFmNUlCbGxRRHZKc3F4MTRBd0VjM1dfazY?oc=5",
+        "published": "2026-05-07T16:08:20+00:00"
+      },
+      {
+        "title": "Micron (MU) Stock Hits All-Time High as Mizuho Raises Target to $740 - CoinCentral",
+        "source": "CoinCentral",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFVwZFdjYzVLei1sMWp0TzdFakk2YlVSMmJockV3ZlJnWXFOdk9HRGhyYXZBc1pfVUIyX3NMUkYyUURfNThBNFpyQWdCV1dkTlg1UUdCdUtxeFBEUkM2eUxOWGN1dGRyTGJ2WU8xX08wUUgwaXd1VnlIbUZmWVlJaHgybmp4OExiV3VOeWJLazZCYWhn?oc=5",
+        "published": "2026-05-07T16:06:08+00:00"
+      },
+      {
+        "title": "Will Micron Stock Keep Going Up? Analysts Point to $1000 Price Target - Watcher Guru",
+        "source": "Watcher Guru",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2NiWVNXNXVnRDZPclJwNHZvMVpEMG5WUnNCUnVRc0hBeFJVZ2JLRzh3Y2NuZ09Mbk11eG53SGptTkdQNWlmdXhoYnFQa1BxcjNORmpJcmpZUVZ3TjgwTDNacDB3VDlObFFYWXQ2VnlOeldRQ2JqRXFsdzRURXpoZ3FwNk5xeV85bEhMTmF0UFBIbVRSalQ5Uw?oc=5",
+        "published": "2026-05-07T16:03:42+00:00"
+      },
+      {
+        "title": "Bernstein bullish on memory stocks as DRAM and NAND prices rise",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-bullish-memory-stocks-dram-153907659.html?.tsrc=rss",
+        "published": "2026-05-07T15:39:07+00:00"
+      },
+      {
+        "title": "2 AI Stocks That Could Double Your Money by the End of 2026 - The Globe and Mail",
+        "source": "The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNekhrTlpybldfckVrQmJvLXRPV0lUTE9KZEZTZ1BhT0RvSEVLTnpwOWFkQk82OUpyNnBwU01vSTEyQ0o2Zm1XVFJGWXNHemZXeW5Md1B2enpTblhoNU8yZm50TC1XaTlzSzRBbDAwcGQtQWFfSVdlRjhKUkZZem85ZDRUVEw3aUV6SHRIZU9xbkJfbE5meXNGamlrMVpnajMtV1AycUdkUC1JY29YczZNeEpXQXAyR1ZtcVh2cUo3VmNZQUhKckRJVV9xeEFsWjg5VGpvQXBRQmRHZw?oc=5",
+        "published": "2026-05-07T15:12:14+00:00"
+      },
+      {
+        "title": "2 AI Stocks That Could Double Your Money by the End of 2026 - The Motley Fool",
+        "source": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYjQ2VnFSMjdEZFF0MHhXLUZIYV9sOHViTjdIMUltM3VQV0IzU0FIdlE5QTE0QWZETDQzVW9oQWxjbEpTWmZ4ME15TUxxWGxzM3dqR2otak5kRzhCeFNUaTRMdVFveDBfZUNHSnJWUmozSE9IclVxb2Z5S0xZdUdqcDlncjd1dUNrZjJBTDRWTHFnWnIzYmFYQw?oc=5",
+        "published": "2026-05-07T14:50:11+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "SOXL": {
+    "ticker": "SOXL",
+    "headlines": [
+      {
+        "title": "SMH vs SOXX vs SOXL: Which Semiconductor ETF to Buy in May 2026 - Gotrade",
+        "source": "Gotrade",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVnM3N0hTQWZXeU94b180WWJIdW1ETFJSOXVodllhZTN3NkNDaHVEVzRtUU5uM0pGTUduN3BGS0xUdW10RGlpVVVMMFFTSEI3VVJrdENVNXV4S2hCdURwMzFsYXVVZEhYN0dKYWJld05TUzRMLW41S1JPZ2lhSW1iQ0RHa19xVFJ6YTRrYVJGTQ?oc=5",
+        "published": "2026-05-07T04:36:29+00:00"
+      },
+      {
+        "title": "AAOI,SOXL Volatility & Greeks - Finviz",
+        "source": "Finviz",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWRTTlZRU0E3c04yMnBIYXVTa21mQmtabTdkWHFtcEdTMWFuNzFBcXdUdTFEMm1aQkRYSjlBWkFzTU1fRFVrMWh5SmlPcFh6c2cwMVFLV2FFdTdNcXg0NWw3VnJGLTVXRG5idU0yQnE0bTVoWnlubmNOaGNpTmlaMkUzMGtnaHY4dDRfMThsbTRMVFF3Qnc?oc=5",
+        "published": "2026-05-05T20:00:00+00:00"
+      },
+      {
+        "title": "Up 160% in One Month, This AI ETF Can Still 5X",
+        "source": "",
+        "url": "https://247wallst.com/investing/2026/05/05/up-160-in-one-month-this-ai-etf-can-still-5x/?.tsrc=rss",
+        "published": "2026-05-05T17:23:57+00:00"
+      },
+      {
+        "title": "Up 160% in One Month, This AI ETF Can Still 5X - 24/7 Wall St.",
+        "source": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeWhDY1B1c3g1SkR2YjFDa3g0MlJkRXFOTTFYMDA3MDVoRksxblJadjlaekdhMnFLejJoMVpsdHJPY2l1bUs0NEF3YllhRzVqTDY4bTZselp6cGFxT20tNHZJTnIyeFFBQlB3eEpwZ3V1M1VqWDhDWWhubDUteFpsV2R1NngxUHUxQ1NQb0JSVTI0dw?oc=5",
+        "published": "2026-05-05T17:23:57+00:00"
+      }
+    ],
+    "count": 4
+  },
+  "MRVL": {
+    "ticker": "MRVL",
+    "headlines": [
+      {
+        "title": "Marvell Stock Targets $15 Billion in Revenue by 2028. Here’s What Investors Need to Know - TIKR.com",
+        "source": "TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWh2cW9EY1k4NVNvWGFwT29WUDk1Y0JUSFdwWXhJeHdLVDIyUDBacndxREhrSms5VjU0MTdwZThEWTRGbzk4b29OUk9Tc2d4bXVxQXlPb1JxZnM0bE5mdHNwekRNM2NaRW9qUVJiZ25wLWg2eUxJYXNMTXFiS2xXX1dBbkJCdzBLdmZJOVBrX1dUdG0taFh3d3N5SzE0Z2hqSHVrUUVFTUVldVVNcUxObA?oc=5",
+        "published": "2026-05-07T16:23:24+00:00"
+      },
+      {
+        "title": "Marvell Reaches All Time Highs: Buy, Sell or Hold?",
+        "source": "",
+        "url": "https://247wallst.com/investing/2026/05/07/marvell-reaches-all-time-highs-buy-sell-or-hold/?.tsrc=rss",
+        "published": "2026-05-07T15:04:05+00:00"
+      },
+      {
+        "title": "Marvell Reaches All Time Highs: Buy, Sell or Hold? - 24/7 Wall St.",
+        "source": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQzJNdXBBbmI0aFBtTHM1cFN1N21qbWgwVUN4eU1XZmF5VzZOU2wySnNoSnVMdjFsTDJFUTlZbjFWamowMXE5ZERQeGJDeDB0Y0VDS0x5RWJhRHlGZHphbVhVRlIybkszZ2tGbUFCeFJuOFQ1Z1N4WGdobEhLcjRfd3hld1pBZzVTZ3FkeVM3N2s5ZlYzZUE?oc=5",
+        "published": "2026-05-07T15:04:05+00:00"
+      },
+      {
+        "title": "Stars Align for Nasdaq Composite as Chip Stocks Roar and Oil Pulls Back",
+        "source": "",
+        "url": "https://247wallst.com/investing/2026/05/07/stars-align-for-nasdaq-composite-as-chip-stocks-roar-and-oil-pulls-back/?.tsrc=rss",
+        "published": "2026-05-07T13:46:42+00:00"
+      },
+      {
+        "title": "Investors Heavily Search Marvell Technology, Inc. (MRVL): Here is What You Need to Know",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-marvell-technology-130007302.html?.tsrc=rss",
+        "published": "2026-05-07T13:00:07+00:00"
+      },
+      {
+        "title": "Investors Heavily Search Marvell Technology, Inc. (MRVL): Here is What You Need to Know - Yahoo Finance UK",
+        "source": "Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdkRrdkNWV1p5bU14NkdISWlGYVZXSEdHUHJYTWVuOUFHQjlzem8tdWE4d19UU1lLUVQ0NjZ6SUZ5T1R0aDdBZHlBZGZNTklLbmFCX3lzMmt0T3hWMVE4X2t3U1RrbjZLZ3BrT1ZNNzFqMWRyZjdyNlNweVRSdWpJbUpHWVEtRmN5dU1TakpabTJhTXpRVWNj?oc=5",
+        "published": "2026-05-07T13:00:07+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "APH": {
+    "ticker": "APH",
+    "headlines": [
+      {
+        "title": "Paycom's Q1 Earnings Surpass Expectations, Revenues Rise Y/Y",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/paycoms-q1-earnings-surpass-expectations-134700250.html?.tsrc=rss",
+        "published": "2026-05-07T13:47:00+00:00"
+      },
+      {
+        "title": "Amphenol announces second quarter 2026 dividend - marketscreener.com",
+        "source": "marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0tyT2tjV3hmNGpBQWt3cU1xLTdGQzZHWHpGd19HYUloaGlTMWN2Wll2VWYxTGdrUTJCUHVWdGs3cnl4MjVhSkc0Qkt5b0ZQYVNyWHRtanJhQVhYZmR1cnBiYThGOVFIV09OSGlZbjduOU43Mm1ya2pwalNVUjZUX3FMbEZSUVljbXI3VXBBY1NfQUpYNVBoX21JVEYxcVNXeVE?oc=5",
+        "published": "2026-05-07T12:22:04+00:00"
+      },
+      {
+        "title": "Amphenol sets July 15 payout for $0.25-a-share dividend - Stock Titan",
+        "source": "Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFVDVVpTalRTQ2Y2UlFmS3JxYXBQTUQyOGJpRG1lRmluZm41OUttQlNETnFUblU3YmJDWTZldk9mVUljb0I0ZlEwR1FteGhsaU1STkpvTmswQ3Z5T25lVVJ4c29TV3BTekVpNWt0aHNtSzRRVl92bXV3NFp3Q0lNTzVONW93UnFvclIxd1dwWURaZUdoWDdV?oc=5",
+        "published": "2026-05-07T12:04:26+00:00"
+      },
+      {
+        "title": "Amphenol Announces Second Quarter 2026 Dividend",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amphenol-announces-second-quarter-2026-120000575.html?.tsrc=rss",
+        "published": "2026-05-07T12:00:00+00:00"
+      },
+      {
+        "title": "Amphenol Corporation $APH Shares Acquired by Praxis Investment Management Inc. - MarketBeat",
+        "source": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjh5a2tCSGF4MTBwS1BMbUlVU1ExeDY1RnZzODBldGt5WE1BSk9vR0t3S0VfVnRzVnpkam5kR0c4NmtQMDFfZ0h6Y2wzcy1lSnVBV0s2dzZvcEQ5Q2hiVXF6bXVwYlJIdlc1VDYxQ0REdXB1aHM3NXNjNHZEX1M0cFBUMlhrd0RpQTRyc3BlNmE2ektEdjhXRDhFTWw3ZWZxM09YYy0xTm5TNEZhQnJCSW9wTWpUdWc3bkw0TnZzbnd1U3JwWkJtVGcwcjBoelBkMHpF?oc=5",
+        "published": "2026-05-07T11:35:28+00:00"
+      },
+      {
+        "title": "Patton Albertson Miller Group LLC Trims Stake in Amphenol Corporation $APH - MarketBeat",
+        "source": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQThSVS1WdXlXVHJiZGRoaVNmOVBGMkE3d3VBNVY0VGhjRzhhQzFBejdpTDFHUUtWb19EeGJycURfOFUyWlF3MWFDcFcxUjhqbDEzSU14dkFPdW1ORUR1RDJLQzVJRW1YX3J6VWZZdjlMSXItR3htQ2JuczM4MHQwYXJhRnd3Xy1HdVJONEJ1c1U2dHc0SlZJVld6cU5zTlRZc0swVkpNN3RuZ1ByY3E1RWZLaGV3dHBIVkJvSklfRWd1TVl0ckdFZElGTGdqaUU?oc=5",
+        "published": "2026-05-07T11:31:24+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "VST": {
+    "ticker": "VST",
+    "headlines": [
+      {
+        "title": "Nuclear Stock Vistra Pops On Earnings But Uranium Producer Soars",
+        "source": "",
+        "url": "https://finance.yahoo.com/m/caa3ba48-b3ad-36ed-abb2-e2dd5ff2fc03/nuclear-stock-vistra-pops-on.html?.tsrc=rss",
+        "published": "2026-05-07T15:18:48+00:00"
+      },
+      {
+        "title": "Why Vistra Corp Stock Is Powering Higher Today - TipRanks",
+        "source": "TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc3d6cXpVZ3ppUW9ubURIS3JUWGw1S2M5MmlSdHlkbVhDalNiVVlPbW5OMWtJZDFSZzYzNG8wMEh3RTMzaVp2c0RnUlRDbmtYSVlrNnhZVGZOTUJ6S2NMVzdFbjltNjQyTEtfaS1hV0V1djBwb2RtZUFBTDJORENVT0dnM3Zwek1LeDlsT3FB?oc=5",
+        "published": "2026-05-07T11:58:01+00:00"
+      },
+      {
+        "title": "Stocks Rise Pre-Bell as Traders Monitor Developments on Potential US-Iran Peace Deal",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-traders-113013007.html?.tsrc=rss",
+        "published": "2026-05-07T11:30:13+00:00"
+      },
+      {
+        "title": "Vistra posts $1B profit; second agency lifts credit to investment grade - Stock Titan",
+        "source": "Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmx5SjNCVGVTcjZqZ2pROFRYaWdyNjY1Q3pHT3NfN19YTTV4bnBmaHFPaE83aThBZDJhMFpvVmdwWngzbVRHRTBKeTlqVS02RlUtMUMwdHRiTk1VQlFWRjZ2VUFPelU2bHA2WmVlQzdOS1FRNXFoMmNfVXFDV2xhMXZydjBORFcyZENvSEFQYzE?oc=5",
+        "published": "2026-05-07T11:26:15+00:00"
+      },
+      {
+        "title": "Vistra Corp. (NYSE: VST) swings to Q1 profit and reaffirms strong 2026 guidance - Stock Titan",
+        "source": "Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFVKRlFuSVZkNXVGMnRuQS1NUVhhcHJJZUZrdkZEaUtJbEFUMUlDRzQ0M0NfWnpEbzRiQ2NNVzJId0NqWUxxZWJoYk1ZRTc5dUdxR01ubWo2V2ZGbHdfaVB2R2tmbVhqeUZwemVwR1I2bFEtVkJrX01NOXhnR3JUQnJReWtkbG5MeHlucnRVNFIxdWhZdkZaaUo3aUJ2b3BF?oc=5",
+        "published": "2026-05-07T11:01:21+00:00"
+      },
+      {
+        "title": "Vistra Reports First Quarter 2026 Results",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-reports-first-quarter-2026-110000365.html?.tsrc=rss",
+        "published": "2026-05-07T11:00:00+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "MO": {
+    "ticker": "MO",
+    "headlines": [
+      {
+        "title": "Dividends vs. the 4% Rule: What Happens to a $500,000 Portfolio Over 20 Years",
+        "source": "",
+        "url": "https://247wallst.com/personal-finance/2026/05/07/dividends-vs-the-4-rule-what-happens-to-a-500000-portfolio-over-20-years/?.tsrc=rss",
+        "published": "2026-05-07T13:30:22+00:00"
+      },
+      {
+        "title": "$100,000 in Our Dividend Kings Portfolio Will Generate $5,400 in Passive Income Each Year",
+        "source": "",
+        "url": "https://247wallst.com/investing/2026/05/07/100000-in-our-dividend-kings-portfolio-will-generate-5400-in-passive-income-each-year/?.tsrc=rss",
+        "published": "2026-05-07T12:15:36+00:00"
+      },
+      {
+        "title": "MO stock eyes best week in six years: Altria’s pricing power offsets falling cigarette volumes in Q1 - MSN",
+        "source": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPY1Q2ZERSSTVtVV9PX0FUbndBYVhlSDNFaFRmVm9ZdUxxbGZqZDBGcHItMFRXWEFOeF80dzMyUFN3MzZINTRKQjNSVHIyT0lFQ3AzSnhmS3lWd0ZhMndTeFRYV2ZJZ1FZa1BhcjVkSDlUcVoxUEM5MUZQSFVLaUE0U2dLOWtpdkY1dU5rZDBOUWo2bExZbzBRcF9QUGVENGk2cVBnTDcyQTJhcUxSV0NCclowTGVYZjdFVnI5cFhjWXZNNUNYWW5aVGRMZzM3bU9mZmlHeWZicUwxU3UxZ2pTNjFmY3dubzNOdHFKTmdEbnJNX2FPY1dHeHVRRGZNd0lMMVdBeEdPcEFzVE5POVdQd0FuaFVhTUppME5hU3RLbWc4OF81M1RhX0NBTnZJTGVHYVdQU1ZMWWQ3bDBZUzNSUXBqdFROM3FnTVF1djFYdloyV3ZZS3NFbEZqNUJTU00yTUJVTTBZQ1ljNEZQeUFaR3M5V2tUUmlUejE0VkNBbG54VmVNbE9kdGpxRnoydzFCLTdfVm9vZHlDMHFMTDE4V1l3?oc=5",
+        "published": "2026-05-07T12:12:00+00:00"
+      },
+      {
+        "title": "Premier Fund Managers Ltd Has $1.73 Million Stock Position in Altria Group, Inc. $MO - MarketBeat",
+        "source": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3I1enVhdEZpYlhIWmVvWk42VFNUU3N3UndfVXcyYjdPOEs4SUN0cjRPcllkbWpTLWZwSEExM0tLMHgwU0xGXzlkenQtX0E0UUt4M2lQdjR2X2lndTNKZWZLTURXdlhHVDR1NUpGUmM1TFZoT3pERnQ3c0NPNXQ3ejRpRWNNSW5XVG95UFBRTWltRlp3SThUQTN6dC02ZUNZVDg5UHNSUWNUdGxHWFZvN09WaGF3Sk95d1dxY25pMnJScE9lbkd3MS1yZVZmLTBHal9TTkJKYw?oc=5",
+        "published": "2026-05-07T12:03:39+00:00"
+      },
+      {
+        "title": "Mitsubishi UFJ Asset Management Co. Ltd. Has $203.33 Million Holdings in Altria Group, Inc. $MO - MarketBeat",
+        "source": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQV80RnBkal83dWoyekQ3U2x0STM1QWd6UUpveUVkaDlfSXJzQ0UwSnU3UDJsS3FSS3NGci1WNHFOb3ltdW92WEdtenB6eEM1dFRkLUY1RDdSOVpEZ21oTGNqalYzS093ZU53SnlGTVRRbHFNTVlqQ2lONlF1Uy00VnpoZVllYkx4b3BWSzQwX0RTV1ZLekN1YkRGSDhmcXFCcTQ2QlhzNlo1emU0ZGZPbnBaVFNUZkRFSzZrdTVqR09VeVVraWM2bFppbGE4MmU0akpQZlpRTnJ3bHV1Nnc0dnJFTQ?oc=5",
+        "published": "2026-05-07T10:37:05+00:00"
+      },
+      {
+        "title": "Altria Group, Inc. $MO Shares Bought by Principal Financial Group Inc. - MarketBeat",
+        "source": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdzFtZ25KLTFaLTFULUctTlAwMEdQbTFUUFRJU2x2SWMyYWlKQWFZN1pleV9XZG9GaWdjd1gzQV9ONnVHLUtHbjY1UDBRVTBXemk0Vm5XVVV5NU9IWjR6ZXhubHJ3UVRZUk5ZQlhyZEpvSXRjcDF5TzRZSXJMN1IwSW5nUzdUUmZpYzdWT1o1UUJuSHhLS1VoT01iYURFRUN1V01oNDRoWDh5UWZBLXJ5UGk1OWI3em5BcTY5VEJvOUx1SUJEZUE?oc=5",
+        "published": "2026-05-07T10:06:57+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "WMT": {
+    "ticker": "WMT",
+    "headlines": [
+      {
+        "title": "Meet the 5.7%-Yielding Value Stock That's on Track to Become a Dividend King Next Year",
+        "source": "",
+        "url": "https://www.fool.com/investing/2026/05/07/clorox-high-yield-potential-dividend-king-stock/?.tsrc=rss",
+        "published": "2026-05-07T15:25:00+00:00"
+      },
+      {
+        "title": "TD Cowen raises Walmart stock price target on growth momentum - Investing.com",
+        "source": "Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVTBlQnlEa0twcldibHE5RXh1WHo0cVhaLWFRZmI0a3B6REQwb2lyV0lZRVBkbmJYbGNZQlEwR05WbGZlQmliWWN1eTZPTFdYUU52NW90TUxTSF94Q2NtanFMZUZ2Q2xhVHRpcVo3Z21ndFUzWTFUb0wtbnpvOHdFZkpMcUNzVWFjRzFPS0ZFM3ZuUkZXX2ZOVHdDZkVGemo2T1N1a09CbUVMWjFKX1pUX3dnOWRENFloNjItRXJB?oc=5",
+        "published": "2026-05-07T13:53:45+00:00"
+      },
+      {
+        "title": "Krispy Kreme Posts Mixed Earnings, Sharpens Debt-Reduction Goal",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/krispy-kreme-posts-mixed-earnings-104611579.html?.tsrc=rss",
+        "published": "2026-05-07T10:46:11+00:00"
+      },
+      {
+        "title": "Why more retailers are offering same-day delivery",
+        "source": "",
+        "url": "https://www.supplychaindive.com/news/why-more-retailers-are-offering-same-day-delivery/818716/?.tsrc=rss",
+        "published": "2026-05-07T10:25:42+00:00"
+      },
+      {
+        "title": "Walmart (NYSE: WMT) Blurs the Line Between Growth and Defensive Stock as Amazon Rivalry Intensifies - foreignpolicyjournal.com",
+        "source": "foreignpolicyjournal.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOXptWmZESVg1S0FSRHNwNWp4SFNHVm9SZUxBLXRrY3RqcjRFaUsxQjZrOThRcTVzMnR3T3RlZ1NYSkFpbG1jQlhvWDk4QUhXc1pFRFdwaDBwZ2kyZ3c0Y3gwd3ZJRGp5X0xILVhYek1nLTNLZTNzOU9GblFtc2VROUtXczJaVUFiaGtvRFIxVGk5RzFYdzUtNEJIZEk2STMwYXhRUm9tODhpM2l0cXJUY0pYeW1sNkZiZ2RVT3JPUzZIQ2hPOWpxMjJhWUNrb0tubld6aGNYSEVVU1Y4ZXc?oc=5",
+        "published": "2026-05-07T03:52:00+00:00"
+      },
+      {
+        "title": "'Uber won': Why Instacart might not stand a chance",
+        "source": "",
+        "url": "https://finance.yahoo.com/video/uber-won-why-instacart-might-not-stand-a-chance-204139211.html?.tsrc=rss",
+        "published": "2026-05-06T20:41:39+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "PDD": {
+    "ticker": "PDD",
+    "headlines": [
+      {
+        "title": "Commerce.com (CMRC) Q1 Earnings and Revenues Beat Estimates",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/commerce-com-cmrc-q1-earnings-125011080.html?.tsrc=rss",
+        "published": "2026-05-07T12:50:11+00:00"
+      },
+      {
+        "title": "PDD Holdings Inc. Sponsored ADR (PDD) is Attracting Investor Attention: Here is What You Should Know",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-inc-sponsored-adr-130006301.html?.tsrc=rss",
+        "published": "2026-05-06T13:00:06+00:00"
+      },
+      {
+        "title": "PDD Holdings Inc. Sponsored ADR (PDD) is Attracting Investor Attention: Here is What You Should Know - Yahoo! Finance Canada",
+        "source": "Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM09HNk4zei1KMktNWGp5T1RTVmVfTklWSDhyLWJndDhXcWdCMk52RjE4UXhpcE9kUXY0V2Mxb3N2UWNBaXczcEVrbktFemRDdl9fZWxKdUlZN05QM2F5WDZDOEZORG0xY0w1NjMyak5ESGJOdC1mb1BUaFVwVUtEQmxfcE9xZw?oc=5",
+        "published": "2026-05-06T13:00:06+00:00"
+      },
+      {
+        "title": "Maplebear (CART) Q1 Earnings Lag Estimates",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/maplebear-cart-q1-earnings-lag-122502003.html?.tsrc=rss",
+        "published": "2026-05-06T12:25:02+00:00"
+      }
+    ],
+    "count": 4
+  },
+  "DAL": {
+    "ticker": "DAL",
+    "headlines": [
+      {
+        "title": "UBS Just Hiked Delta Air Lines Price Target to $95: Premium Cabin Strategy Targets $13 EPS",
+        "source": "",
+        "url": "https://247wallst.com/investing/2026/05/07/ubs-just-hiked-delta-air-lines-price-target-to-95-premium-cabin-strategy-targets-13-eps/?.tsrc=rss",
+        "published": "2026-05-07T15:12:40+00:00"
+      },
+      {
+        "title": "UBS Just Hiked Delta Air Lines Price Target to $95: Premium Cabin Strategy Targets $13 EPS - 24/7 Wall St.",
+        "source": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMUpKZmw5eEdpYWU1cTNFRW9xeE84Ym9CVEpTUTBIRnJhaE5HWW84RzdZZGRRem1RR1FIaWhOdDhyVmcxWFRNRjV1bzVrR2Npb3ZEcVhaMnVuY21oaWEycER6V1ZCY3pRN3ViWkhvOEtvMFdvbWRiZ0c5OWtiZ3R2Z1JrZFNzOTRNZWV0dndtNnZoOWNib0s2NWJWMFRKN0JlU2d1aVpZMTRLdFRxQXZwcGhVel9lZW0zZ09uUG4tRFN5NkNnb3pBdHVLRQ?oc=5",
+        "published": "2026-05-07T15:12:40+00:00"
+      },
+      {
+        "title": "Prediction: These 2 Airline Stocks Will Rebound Before Year's End - The Globe and Mail",
+        "source": "The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNakt2UFFIWkJ2eU40ME9SZlNEOVR5Xy1sTHgtTC1oN1o3ZU9YNDNsLWw0SnJaeTVxeEFvOTVCWXRUZ3lnMU4wMERNYjNfZWFfQ216SjJhMWxCSlU5aHhfclRMcVVySzNRb2dZZDdRbm8wbmRJMGpHRElpTHZCanV0WmNsM2lLc19PR2kyUGNBT0VXdEZPeUF4Wk85WS1rblJLeWg5ckRIemNGbHJ4Q1hwUmpVcVZxWVM0aHNObjh1ZmFzVWRYeDdRRnRudFB6ZUlGSlVXeEZvbG5zdUsyNWxLZg?oc=5",
+        "published": "2026-05-07T10:46:54+00:00"
+      },
+      {
+        "title": "Prediction: These 2 Airline Stocks Will Rebound Before Year's End - The Motley Fool",
+        "source": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNG9uT1dVdWxCTkloN2tSWDRlLVlzbTg0WkZfVmdaZERFYlViVXRfNVFKR2F5SlJPMmRRX0JIVnZHc2JYUmdlVHpPcVJmbmZkbmRNYl81bTVqNjlRbWh5dElMeEliT1pwQjVUXzR4UTlEWEpDS01qcnJlc0ZRSUw5ZWl0OUFLYW9lVGtzMEppR01sVEdxWWI1Tg?oc=5",
+        "published": "2026-05-07T10:34:18+00:00"
+      },
+      {
+        "title": "Prediction: These 2 Airline Stocks Will Rebound Before Year's End",
+        "source": "",
+        "url": "https://www.fool.com/investing/2026/05/07/prediction-these-2-airline-stocks-will-rebound-bef/?.tsrc=rss",
+        "published": "2026-05-07T10:29:00+00:00"
+      },
+      {
+        "title": "M&T Bank Corp Raises Stake in Delta Air Lines, Inc. $DAL - MarketBeat",
+        "source": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkZ6SVNrbGhUbVpybmlTM0FoVFpDMUl1V3ZCTDZrVDdMU2NQMjVjMml3X2JveThRbkhzWWM0ZmFuSGh3SmJIUzU3V0FEQ1dmNWJwbHRpRW5scTdPTW9IcVNIeFFqemZBWnU3ZnNXS2tJQVc1c242cnh2UVhaLXNzekloWlgycnJJOU82b19WT2x2aldUX3JoQWV4a1V4Q2l4LVBHRUR1NDJudVBFRlhCMzRYTQ?oc=5",
+        "published": "2026-05-07T09:12:43+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "SNDK": {
+    "ticker": "SNDK",
+    "headlines": [
+      {
+        "title": "Trending Industry Today: SanDisk Leads Losses In Data Storage Stock - Moomoo",
+        "source": "Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa2RtZW13WFNndlk2cWNJZWVmckhRdHRlS2llVklraGt5cXlqRk9EOUFBTHFSa2hhVnlPOXhfVXJ1SUVidlNHd1NaYjlId0NuN1VKWVFkT1EtTnFBY2hXRmo5d2xvSUNBQUNNWFhQX1ZGa0tqWnRPMEdMUEVPZ0FEWkczLUJDS19jcVNZTHJ0TV9QU0JfRTl3bmtQOVpETmxnUEVZS2dMZVlwdEtF?oc=5",
+        "published": "2026-05-07T16:26:27+00:00"
+      },
+      {
+        "title": "Why Sandisk Stock Just Dropped",
+        "source": "",
+        "url": "https://www.fool.com/investing/2026/05/07/why-sandisk-stock-just-dropped/?.tsrc=rss",
+        "published": "2026-05-07T15:52:37+00:00"
+      },
+      {
+        "title": "Why Sandisk Stock Just Dropped - The Motley Fool",
+        "source": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtWFZPczN3UTE0Z1Q5cUxwM3ZSYmV0R0NXbm5VR3Z4cVBzYi14eUFzWnl1WVRCYkFjc3phRGdZandVQnlSdHd5TFd2NmRiRFo1OVBKWFd2dGFiU2xQNTJfT21JRnFrVGdabThaX295NV9ZM3Nod3g4ZzJxbUNZUQ?oc=5",
+        "published": "2026-05-07T15:43:23+00:00"
+      },
+      {
+        "title": "Fund Update: New $99.6M $SNDK stock position opened by AustralianSuper Pty Ltd - Quiver Quantitative",
+        "source": "Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQlMwUktZMUVhMTRhMVZYY244RnlPX3BBYndIZ0dYSzlWRWtHM0c0TGZiR1kxbGdsMW1YN0gwbHJmNjl5QUluVkRYWHJOUUxxUU52Uk9uRG1oaGNzbmJ2WUdPMFRucXJNTklzQUxNTmdFaU1sb2hKUVVUSGRkcGZTYzlVTHREUEJsMUloWk9vQTMybHhYcFJwQzZwVExFVnZNMkk5SDFqc0hyUzJFMXZZWVhYc1k4YWpu?oc=5",
+        "published": "2026-05-07T15:41:00+00:00"
+      },
+      {
+        "title": "Bernstein bullish on memory stocks as DRAM and NAND prices rise",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-bullish-memory-stocks-dram-153907659.html?.tsrc=rss",
+        "published": "2026-05-07T15:39:07+00:00"
+      },
+      {
+        "title": "Why Is SanDisk Stock Falling On Thursday? - Benzinga",
+        "source": "Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDdJejBfR1BMVVpPTE1vNGdQR3NRNGFsdl9oajJXWFpDOEttRXg4Nm5FTHphZzFpdkF2STVBY0lFZldEbWlkRk5CX0ROb0ZfdS1VSnloVjg2Vkk4N3lrWHd5SHRSVTBsWV9lMGpqeHFFdm9kMzZBelp6OGs2d3VTOGd4eVZwN3B4OGo1YjAzaldaUmhoY2FtaWZkanBRU0YxaHdN?oc=5",
+        "published": "2026-05-07T14:58:28+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "AMAT": {
+    "ticker": "AMAT",
+    "headlines": [
+      {
+        "title": "Applied Materials Inc Stock (AMAT) Moved Down by 4.04% on May 7: What Signal Does It Send? - TradingKey",
+        "source": "TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeFd6eDl3bDd5RjFaMHB1VWZKa0dwSUczUDBKclFpd1ZBMFBQMUE2LVBWNHNZbXZlcGMteGtfYnpTZGR6aUl1Tk1BWnNQa3ZtRkxTeGFudk9MMjFXSG1hTkc4UHhBaGdxQnpfb2FmZHptMnV6dnBjMXlCSFo1V1ZQTXVrdk55SUhJQUFV?oc=5",
+        "published": "2026-05-07T16:20:21+00:00"
+      },
+      {
+        "title": "Applied Materials (AMAT) Reports Next Week: Wall Street Expects Earnings Growth",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-reports-next-140008725.html?.tsrc=rss",
+        "published": "2026-05-07T14:00:08+00:00"
+      },
+      {
+        "title": "Applied Materials (AMAT) Reports Next Week: Wall Street Expects Earnings Growth - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXFhamFxZHc2QVhVMUF0NzhnVzFBWm8ycVRNanBQSC03dW9NbVcwQjlvZkM4cWNkbWotdkQyZ2VJN25LenJ5bjZOU0M1b0VWWmhnOUV2Vl9KZXViZDZQTUVyaHNIRUh1ekVCdDYtYU9UN1JzWjM5bmstQnNNMGlveVo1aVI3SC1vd3h3a2xtbnV3aDE3SEY1bnhfcEZUQjNQRXc?oc=5",
+        "published": "2026-05-07T14:00:08+00:00"
+      },
+      {
+        "title": "NVIDIA Shares Rally Toward 52-Week High: Buy More or Lock in Gains? - The Globe and Mail",
+        "source": "The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSnFyVW9sQ091d2RGR0YyTHl4T04wRE1WS1pHU1hNVFlCWW1SNjFjU1dMd0hZbm43UnhEaG96TnJvcG5GaFhBU2pHM3lnQmZDcVJUU0VJS3BjSUpyM1ZYYlJMd2xKakF2cUd6bEdTNElodUE3aUhoSW92R1ZTeHpZSkgwdnBiV2E4UTNLRnNkd0ItWTg2YlRYUWJfZ3FWYUVBUTk4S1UtVUFpaVY1RFN4VG8xZEplM1VWQ0VUTUtnbHhiUVJ0dmppRXpnNGVfcDJ4dmtod2ZvZW9mMEcyVEpMSVhsdk4?oc=5",
+        "published": "2026-05-07T13:33:27+00:00"
+      },
+      {
+        "title": "Seaport Research Initiates Coverage of Applied Materials (AMAT) with Buy",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/seaport-research-initiates-coverage-applied-131218211.html?.tsrc=rss",
+        "published": "2026-05-07T13:12:18+00:00"
+      },
+      {
+        "title": "Seaport Research Initiates Coverage of Applied Materials (AMAT) with Buy - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaHdTTmJpMkRxZ1dmZmlSOXFsT0J0UjlUUzA3R1dUU3NmbFlFeWE3aTh5alRzNUpyZW5lT1MtVW04bG5SakUyNEhBR1lXS3N3RVA2SVZwMDQzMHJUMDNkUkJaaURrMEtxOUVXOU9KMDJOdDhkYnktNExhUFYtV1Rfc3BLZ1JXcm0tSzRFdUdlTGlnZlBSUUJ5ZTRKQnNGdlk2Skk3ZlRXcU5PUHhk?oc=5",
+        "published": "2026-05-07T13:12:18+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "LITE": {
+    "ticker": "LITE",
+    "headlines": [
+      {
+        "title": "Craig Hallum Forecasts Strong Price Appreciation for Lumentum (NASDAQ:LITE) Stock - MarketBeat",
+        "source": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ19WTHUzUU5Cd2NFUFU1cnFZWENIUzdsTnB5Y05YMkw3Z2FaVEVIbjVkWHgtLWs1TTI2dWpzeDNoTmI2WTcyejNtYjhEbkswcFVhV2ptQ0ZBZlNYNEhVdWJQTkRzSWR3OEVqZmpuRzk5d21LRFpOLWc4Ri1Mc3hoTmRDTXdMZWlCVEpVSkltZzBHYnRPVTBRZTBuekFkOTEyRUJZOFVpYVk4VWg1TVI3YkNKbXlPUzJ0dENJQ2FISHYxdGRWM3JDZndMRDc?oc=5",
+        "published": "2026-05-07T14:08:42+00:00"
+      },
+      {
+        "title": "POET peer LITE stock dips premarket despite earnings beat — retail only gets more bullish - MSN",
+        "source": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOcFpseXdZb05lcFVYNGgyYUowaGlMQkRMa004Ym9qLUtTMGlNa1pINk9SN1Q0dWRlbG05RmdGdlF3WXJLNkJpYlF6Vl9yU0tDdm1BMUJ5Q2h1VjR2aF9rWEEyeXp3ZC1sVDkyaXVFUllRdThwVUJZejRhNjYzQmpqTnRzNWthYWhYVGR3V1cyWHdwSDlLNWlVQ09WZ0tOcl9RM0szQ1VyRGR3TFR5SWFUQkVpZzEtYU9FR2hST3Z6VGk3aUwwMFI5SEo5NGYxbHdkeTlFNGV1LVQ3R091MzZpWGlwNGcyUHAwTFdSQV92bWVxM0drRXh1aF9tRkR6NE1ycDVySTZnUmNhQ09TZHdjRVBwcnp2SzJGTmFRbTJ0NmdvU01JY0Zna2tiRkpTZmYtaGFBX1dtLVZ6X2h3WXRGWWZORlV6TDBPb19KYWlmd3NFa2pRdVlwSTNvUm4wdFFsaXhnVEVDb1FnWW5zc2xzVHlvcEtFa0o2LXE1Ry1XM3V6Qmx3X2doeWR6bW8yX3pnZ2c?oc=5",
+        "published": "2026-05-07T13:41:15+00:00"
+      },
+      {
+        "title": "Lumentum Holdings Inc. $LITE Holdings Lessened by Robeco Schweiz AG - MarketBeat",
+        "source": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGQzTVk1Y0V2aDloVmk2NEhKU2xyZDl6RC0ybFFzUnZvTlFfVmJOWndYZm9XZDhUWEJqdlB3UEpkYzJGdC1qOVVsV09BRnl5aVJEaVlNbmNRVFU1UzJOY01vLWNOLXUwRVpkbXB4dWtIZmc2OXQ1dmFTQ3FoU1RFSHNVbjBUZXZoMVRydkwyQ3M3NlVsbC1vZDlLVTNUbTRKLUFJV2xzczVNVjhRQWRwZnhjMm1Bd1lLVV93VkpXX0g1eGtO?oc=5",
+        "published": "2026-05-07T11:35:26+00:00"
+      },
+      {
+        "title": "SBI Securities Co. Ltd. Buys 2,965 Shares of Lumentum Holdings Inc. $LITE - MarketBeat",
+        "source": "MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOHdyY29wQjZhSk1YT3FkR3E3X3hYZ2pzdGJaUDRsWkN0VW1lZDhFY2NsLTUyVGVpOWo2bmIzVDNVNmVNZXZ3TjQxYlBTaGdBQ3B4YnpIbWNrWlkxakg1Vnd6dGF0bVhzWGF1LWc4b2NGM1NDd1ZIcE9saW9zNWIzRmlaRFljMHFjWVp2UnNsLTZ3RlZtU016UmpRdGVFNndiV19MZDR1RzdaTlQ3bmVCSC1SUHJyVm9EZVhUZUtzbTEwdGNVUXBwdA?oc=5",
+        "published": "2026-05-07T10:33:05+00:00"
+      },
+      {
+        "title": "Rothschild Redburn Gives Lumentum (LITE) a Buy Rating",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/rothschild-redburn-gives-lumentum-lite-095954475.html?.tsrc=rss",
+        "published": "2026-05-07T09:59:54+00:00"
+      },
+      {
+        "title": "Rothschild Redburn Gives Lumentum (LITE) a Buy Rating - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0k0cnNNRnhXcUx4WjZJUGtHS3pTcHJSNGQ5eWo2TGp0QmNmekVTRnFaMDgxSU5pbld1OEE1ekFmbW9MY2VVMUQyUWdEZjJ2MTE1Qk1pQmNydzRZeUtaa3laeWNEYnRSMkpJVmh0UnJFRlVQVC1Qb3MxUjVzNjYyRm5XeTJiaWlqXzF6R3hCMjlwYi1mMFF1S19wMVEzV09RbHZnNnNn?oc=5",
+        "published": "2026-05-07T09:59:54+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "COHR": {
+    "ticker": "COHR",
+    "headlines": [
+      {
+        "title": "Stifel raises Coherent stock price target on strong demand outlook - Investing.com",
+        "source": "Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2ZNeGF0Z0xiSTlVVFRkVlMyUkxTQmNMM2hHN3Q5Q3dMTld2dVgxNGEzazN3Vm1DWmdHS2lBNEt2V1lpYWpLSXdhYWFJbWdyNDJHbDVHYUVQQVp3cG5vY3l6SGszUWZxNTdlR1JNeDFnbEEzOE52ME44eTIxbnVzTWJoQ2ZKaWhacFBzUWRLam91UW51cDFBX1JZV29JS0lESGpQUVM2Tl9NdTlJZFV2bmVoZUNDOWdEbmcyMG92SmVGNWVN?oc=5",
+        "published": "2026-05-07T15:58:33+00:00"
+      },
+      {
+        "title": "Coherent continues to capture AI opportunity, but slow margin expansion challenges stock: MS - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkcxQ2tpNGdWTXloQ2R4VWNnbTI0QWNwcUU5SlgtSk5iVzdEOHFRbHNRc2N5OXp2aGZ0WmZsaFU4cVZob0dkU2ZhR0hxY2NWSE1oSEQxdmpYLWwzdVBZQVZFdVBqQlNNa0lIZFUydnluRnBzUUpnM0E1d04xVjF5RldXNjdHdjVlajd5Q3lJU1ZwRE41QnMzNkdyNDFVSjZVZ21kQmtFbkh5RkF2MUoxenFSenlvQjZVX0IydExVYnBrT2ZXU3I4?oc=5",
+        "published": "2026-05-07T15:45:25+00:00"
+      },
+      {
+        "title": "Rosenblatt raises Coherent stock price target on transceiver growth By Investing.com - Investing.com Canada",
+        "source": "Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkdwdnQ3X3djcU14TlI1eGxyTjY5ZldzQzUyVlk0Y0NTbkd4T2dJT01XcXQ3LW93YUlnckg3ZHhLbWw0eWhIZUtETEU2ck1CeWJSbWQ0eGZEaUV3eHFXQ2lmQ2EyQWFIUVY0X0NlRlBnVnNTVjdGT3dDcFd2Umd2TWwxRkIyRlpsbHIxcXdTaXlIQldDbWF4MzFvQjhnZXZiTlR5Vm9uSDdwVGRtVmZiY3hicUt0VVZzOTNRc0FWMUJSMk5VbWNr?oc=5",
+        "published": "2026-05-07T12:57:48+00:00"
+      },
+      {
+        "title": "Dow Jones Futures Rise, Oil Prices Fall On Iran-Deal Hopes, Nvidia Leads New Buys; ARM Is Earnings Mover",
+        "source": "",
+        "url": "https://finance.yahoo.com/m/60f16d9e-5783-3992-a38b-9179812c0cca/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
+        "published": "2026-05-07T12:14:30+00:00"
+      },
+      {
+        "title": "What's Going On With Coherent Stock Thursday? - Coherent (NYSE:COHR) - Benzinga",
+        "source": "Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVXduTU1KU25WWDBrYzFqNGNsOThVOWgxOHZzSEd1ckNTdGN6VHA4VE9jZDJ2Z1FpbEZ2QlMxZzNGZzJnZnRjMlo5US1EMHlZWXYwUmhwa281VlZiVHBGMUZsT3ZVSW1QZjBQc3hsZUU5NEJ1V0ViS1JFaXBoSF91LTFkbjNjR25GZDJteHhkSzAtd0ZCOUpUNGI0bmNLNWZ5WndNR19abzNJSEo3V1AxX0FuejV1TUZEcXd3?oc=5",
+        "published": "2026-05-07T11:20:39+00:00"
+      },
+      {
+        "title": "Coherent (COHR) tops revenue expectations in Q3 as AI demand accelerates, shares decline",
+        "source": "",
+        "url": "https://investorshub.advfn.com/market-news/article/27931/coherent-cohr-tops-revenue-expectations-in-q3-as-ai-demand-accelerates-shares-decline?.tsrc=rss",
+        "published": "2026-05-07T11:08:10+00:00"
+      }
+    ],
+    "count": 6
+  },
+  "AAOI": {
+    "ticker": "AAOI",
+    "headlines": [
+      {
+        "title": "Why Applied Optoelectronics (AAOI) Is Up 16.8% After Major Texas AI Chip Manufacturing Grant - And What's Next - simplywall.st",
+        "source": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNzVIb1B3TEFLMUUtTGZkb2NHNnN3MXRzTmVURGtZSjlCMjJDS29YaEd3YVpFMHJrR2RFRGdYbEMwaGpwQzZKdmtZc2Fuc1VYbmN2X0Z3VWhhMXU5ZnBTNmdZNmwtM3ZuYTBPSDdhRUtQclc3UWkwZ3BlREh4Y3drMWp3ZVFMZ3VQbXEwQmo2ZkRmRFRlaGt5ekpQOTlqalY0Mlp5b1o3aVRIanZ1dEhaSWZ2cldQd1k0THlBbTNnMjYwM1hXYzhsNWt5ZU4zM2dNRGRYYtIB2gFBVV95cUxQdEhyS0JFWFNidzBMLUJTMmVmQThCbWVYeHlIMlR5aWwzQzFuMVo4LXFfRUtxQ1VGTEgzTVZFeC1Tdlh2MUhqU1N4UkdUZ3A3MEpWRVFYNThiamFzYUdwcnRMbjNMdnhQa3EybjJBNEk4eWFBVC1obnZVYktYeEtidnh5amdtT1VnR192bWEyNmt5VVpGdDR0S183dWhucFJjSUVLQnRXQ21PR3d5NThxSDl0aExfYzEzVXV6dldQVFVmRjJYQ0ZuOVpCYUdfQWlSNG1vSXE5M2I3Zw?oc=5",
+        "published": "2026-05-07T14:08:10+00:00"
+      },
+      {
+        "title": "Why Applied Optoelectronics Stock Is Sliding Now - TipRanks",
+        "source": "TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcTI4QTRYM0ZISVpkMjFnMTg5UUhmbnN5ZUl4VGtEMmdsVFdXUGpRTkxETlVhbmJldndyRHpGYlFTd3dydHhjVFhVcDQ1Ulc2b0dYZHFYcUJPcHRFQndFTExud1Zpb3ZTb2RzOFNfZ0ZTTlc0cFgwMU84X05YejFxNC0zTEJrQUozbzdHV2YtZ3Q?oc=5",
+        "published": "2026-05-07T13:54:12+00:00"
+      },
+      {
+        "title": "Invesco-Ltd Amends 13G: 2.014M AAOI Shares (AAOI) - Stock Titan",
+        "source": "Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTU01QnZRSjB5T3ZGenNJdFVfNWdzajNYVXpPa0pHMUZKb1Q5V0phbG5BWXNhVGplZkttUzBJaFNmLVhKaTJReXFBeUQyYzRxc1Z5dDZ2cVB5bUVPQTRrZlpPbDBidjk5eGt6OXNLaGd6czljaFhrYWxDZkJvOER4R04yR2oxRGZ3ajM0WG1zQWVBQ0c3cXNqZ3VuU0l5blVJNFlrRU95ejhkZUVwdnhyYnJOTHlHYlA2NzVLT0d0dW9XRFNqblJGSFFGWQ?oc=5",
+        "published": "2026-05-06T19:25:36+00:00"
+      },
+      {
+        "title": "Assessing Applied Optoelectronics (AAOI) Valuation After Texas Grant Backs AI Transceiver Expansion - simplywall.st",
+        "source": "simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONTB3eFFBM1RmemV4eTFuUWhaQTFqQU9rNFdNcWJuY1IzYjMtRVhsUWItV2c1UVNnOVJqS3Y0SE5sX01JUXdmUUNIMEpPM1pGR2N6cUtJN0JTelZNSWduMVJRWHMtbTVXc1ozbXo5MFgtcnNvdHlteUVlWG5jc054WkxoUFNibjlVRF9jY21fM193clZteVg1OEZxeHpKU2RyWmxtRUtJdDdCU2hGZDJ4VmgxVHlKTG9obFd5RGNWQ0lCeEk0My15OWZzekdqTDVyVEliSNIB2gFBVV95cUxOM3VzVS1Md3c5ZmpQaW11ZnYwa2N2R0NHeDU3T3o0Tk0tX0dGaWhiN1FvckFfdmFtV3BlRV90cV9QM0E2UTVhNFJWcGpGMW1TVWFkZ05qSzVGQ01NVkdRTTBuTU9zOGdQRzJ1MnNsVHBZdWM2NHZEMTJKMnNPcnJobnBuMGpuSDFlVWRlQUlENnlfTjdQeXE5ejZpVjlNXzZ3NTBBRzB4XzRDaDB2UTNGSlc5eE1qVVdPczc5VGczekFLaHhuRUI2RlF4VWRRNU5qdTc4dnZsOFU0QQ?oc=5",
+        "published": "2026-05-06T05:04:02+00:00"
+      },
+      {
+        "title": "AAOI Stock Before Q1 Earnings: Smart Buy or Risky Move?",
+        "source": "",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/aaoi-stock-q1-earnings-smart-165800027.html?.tsrc=rss",
+        "published": "2026-05-05T16:58:00+00:00"
+      },
+      {
+        "title": "AAOI Stock Before Q1 Earnings: Smart Buy or Risky Move? - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTBKaEV6Qm9pMnczTlg0dklGRlhaZ3k0Zkk5LVFuVTc1aGNBUE4tOUJoLUs3WGVuM1BLdHdWaFJEQzhybEc0Ri1IUk1ISTdFeC1KQjhOWlBEcHladEpZRF92bXU2dUJ2eVlLTlVkcFN6MXJHcDk5Ujh4SVRVLUJoQWsybXJhMWJXRm5rdjlnMDYxYlNZVWgxbA?oc=5",
+        "published": "2026-05-05T16:58:00+00:00"
+      }
+    ],
+    "count": 6
+  }
+}
