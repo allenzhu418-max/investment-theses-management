@@ -89,6 +89,13 @@ RSI [x] ([overbought >70 / oversold <30 / neutral]) · MACD: [signal]
 BB position: [x]% ([compressed / mid / extended]) · ATR $[x]
 [1-2 sentences interpreting the technical picture — trend direction, key level to watch]
 
+#### Key Levels
+Resistance: $[x] · $[x] · $[x]    ← nearest levels above price (swing highs, BB upper, 52w high)
+Support:    $[x] · $[x] · $[x]    ← nearest levels below price (swing lows, EMAs, BB lower, 52w low)
+[1 sentence: what the nearest resistance and support mean in plain English — e.g. "The $216 level
+is the prior swing high and 52-week high; a clean break above it puts the stock in new high territory.
+The first support is the 20 EMA at $187 — a pullback there would be healthy without breaking the trend."]
+
 #### News (last 48h)
 [List up to 5 headlines. If no relevant news: "No significant news in the past 48 hours."]
 - [Headline] — [Source], [time ago]
@@ -103,6 +110,19 @@ BB position: [x]% ([compressed / mid / extended]) · ATR $[x]
 ℹ [SOXL leveraged ETF note — always shown for SOXL]
 ℹ [PDD geopolitical note — always shown for PDD]
 
+#### Thesis Check
+[Read thesis/[TICKER].md before writing this section]
+
+**Status: [✓ Intact / ⚠ Monitor / ✗ Challenged]**
+
+[2-4 sentences evaluating whether today's data — fundamentals, technical, news, risk — supports
+or contradicts the stored thesis. Be specific: reference the proof metrics and exit criteria
+written in the thesis file. Do not restate the whole thesis — just evaluate it against today's data.]
+
+[If thesis status is ⚠ Monitor or ✗ Challenged, add:]
+**What changed:** [The specific data point or event that triggered the flag]
+**What to watch next:** [The next data point or event that will clarify whether this is noise or a trend]
+
 #### Overall Picture
 [3-5 sentences of neutral synthesis. What does the totality of data say?
 No buy/sell language. Describe what the data shows, what the key tension is,
@@ -116,10 +136,10 @@ what would change the picture. This is the section I write with most care.]
 
 ## Watchlist
 
-[Same format as holdings. Order: SNDK, AMAT, LITE, COHR, AAOI]
-[For watchlist, add one extra line in Overall Picture:]
-**Entry consideration:** [What conditions would make this worth adding to holdings?
-What price level, technical signal, or fundamental trigger would be the test?]
+[Same format as holdings, including Thesis Check. Order: SNDK, AMAT, LITE, COHR, AAOI]
+[For watchlist, replace Overall Picture ending with:]
+**Entry consideration:** [Reference the entry conditions in thesis/[TICKER].md.
+Are any of those conditions closer to being met today? What would need to happen?]
 
 ---
 
