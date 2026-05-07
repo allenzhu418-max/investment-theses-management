@@ -11,11 +11,14 @@ It ensures every session produces a consistent, comparable output.
 2. Say: "Generate today's research report"
 
 Claude will:
+- Read `watch.md` — address every active watch item explicitly in the report
 - Extract and save the coach's Chinese text to `data/[date]/coach.txt`
 - Run `python run_analysis.py` to fetch all data
-- Read all JSON outputs from `data/[date]/`
+- Read all JSON outputs from `data/[date]/` and all `thesis/[TICKER].md` files
 - Write the report to `reports/research_[date].md`
 - Commit and push to GitHub
+- After user reads the report: update `watch.md` with any new watch items given,
+  and move resolved items to the Resolved section
 
 ---
 
@@ -44,6 +47,15 @@ generated_by: claude-sonnet-4-6
 - SPY: [trend vs 20EMA/200MA]
 - SMH / SOXX: [semis sector health, note if they diverge]
 - TNX: [yield level and direction — rising/falling]
+
+### Watch Items from Previous Session
+[Read watch.md before writing this section]
+[For each active watch item, report the outcome directly:]
+- **[TICKER]:** [What you were watching] → [What actually happened today] [✓ resolved / ⚠ still open / ✗ triggered]
+
+[If no active watch items: "No carry-forward watch items for today's session."]
+
+---
 
 ### Coach Guidance Summary
 [2-3 sentences summarising the coach's overall market view for today]
