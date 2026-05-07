@@ -216,6 +216,56 @@ def fetch_technical(ticker: str, output_dir: str) -> dict:
         pct_from_high = round((price / w52_high - 1) * 100, 1)
         pct_from_low  = round((price / w52_low  - 1) * 100, 1)
 
+        # ── Support & Resistance levels ──────────────────────────────────────
+        # Detect swing highs/lows from last 60 trading days (~3 months)
+        # A swing high: local max where both neighbours are lower (window=5 bars each side)
+        # A swing low:  local min where both neighbours are higher
+        swing_window = 5
+        recent60 = df.tail(60).copy()
+        highs_idx = []
+        lows_idx  = []
+        closes60  = recent60["High"].values
+        lows60    = recent60["Low"].values
+
+        for i in range(swing_window, len(recent60) - swing_window):
+            if all(closes60[i] > closes60[i-j] for j in range(1, swing_window+1)) and \
+               all(closes60[i] > closes60[i+j] for j in range(1, swing_window+1)):
+                highs_idx.append(i)
+            if all(lows60[i] < lows60[i-j] for j in range(1, swing_window+1)) and \
+               all(lows60[i] < lows60[i+j] for j in range(1, swing_window+1)):
+                lows_idx.append(i)
+
+        # Take the 3 most recent swing highs/lows, round to 2dp
+        swing_highs = sorted(
+            [round(float(recent60["High"].iloc[i]), 2) for i in highs_idx[-3:]],
+            reverse=True
+        )
+        swing_lows = sorted(
+            [round(float(recent60["Low"].iloc[i]), 2) for i in lows_idx[-3:]],
+            reverse=True
+        )
+
+        # Key levels: nearest resistance (above price) and nearest support (below price)
+        # combining swing levels + MAs + BB edges + 52w levels
+        all_resistance_candidates = [
+            v for v in swing_highs
+            + ([round(float(last["BB_upper"]), 2)] if not pd.isna(last["BB_upper"]) else [])
+            + [round(w52_high, 2)]
+            if v > price
+        ]
+        all_support_candidates = [
+            v for v in swing_lows
+            + ([round(float(last["EMA5"]),  2)] if not pd.isna(last["EMA5"])  else [])
+            + ([round(float(last["EMA20"]), 2)] if not pd.isna(last["EMA20"]) else [])
+            + ([round(float(last["MA200"]), 2)] if not pd.isna(last["MA200"]) else [])
+            + ([round(float(last["BB_lower"]), 2)] if not pd.isna(last["BB_lower"]) else [])
+            + [round(w52_low, 2)]
+            if v < price
+        ]
+
+        key_resistance = sorted(set(all_resistance_candidates))[:3]   # 3 nearest above
+        key_support    = sorted(set(all_support_candidates), reverse=True)[:3]  # 3 nearest below
+
         chart_path = draw_chart(ticker, df, output_dir)
 
         return {
@@ -238,6 +288,8 @@ def fetch_technical(ticker: str, output_dir: str) -> dict:
             "week52_low":  round(w52_low, 2),
             "pct_from_52w_high": pct_from_high,
             "pct_from_52w_low":  pct_from_low,
+            "key_resistance": key_resistance,
+            "key_support":    key_support,
             "chart_path": chart_path,
         }
 

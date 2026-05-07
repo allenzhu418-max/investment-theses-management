@@ -22,7 +22,8 @@ No individual CPU stocks in the portfolio. SOXL provides broad semis exposure in
 - No signs of sector rotation out of semis
 
 ## What Breaks It (Exit Signals)
-- SMH breaks below its 200-day MA on a weekly close — sector trend has turned
+- SMH breaks below its **20-day EMA on a daily close** — short-term momentum broken, reduce or exit
+- SMH breaks below its **20 EMA on a weekly close** — swing trend broken, exit
 - Holding through a sideways/choppy market period — exit before volatility decay compounds
 - Any factor that specifically hits broad semis (export controls, supply shock, valuation reset)
 
